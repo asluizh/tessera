@@ -11,3 +11,7 @@ Uses the five default triage labels: needs-triage, needs-info, ready-for-agent, 
 ### Domain docs
 
 Single-context: one `GLOSSARY.md` and `docs/adr/` at the repo root. See `docs/agents/domain.md`.
+
+### Project structure
+
+Crate layout, dependency rules and which stage creates each crate. See `docs/structure.md`.
